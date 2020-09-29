@@ -1,0 +1,23 @@
+.btn {
+    border: 1px solid #cecece;
+    border-radius: 3px;
+    
+    font-family: monospace;
+}
+
+.output--positive {
+    color: #bada55;
+    display: block;
+    font-size: 2rem;;
+}
+
+.output--negative {
+    color: #cc0000;
+    display: block;
+    font-size: 2rem;
+}
+
+.container {
+    margin: 0 auto;
+    width: 200px;
+}

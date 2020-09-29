@@ -1,0 +1,18 @@
+.btn {
+    border: 1px solid #cecece;
+    border-radius: 3px;
+}
+
+.span {
+    color: #000000;
+    font-size: larger;
+
+    padding: 0.5em 1.5em;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+
+  padding: 1em;
+}
